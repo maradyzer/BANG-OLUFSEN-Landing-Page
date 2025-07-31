@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://maradyzer.github.io/BANG-OLUFSEN-Landing-Page/)
+DESCRIPTION: A landing page for the BANG & OLUFSEN store, where users can explore products, contact the store directly, or leave their details to clarify information.
+
+TECHNOLOGIES: Sass, BEM, CSS Grid Layout, Flexbox Layout, Semantic Elements, Transitions/Transform.
+
+[DEMO LINK](https://maradyzer.github.io/BANG-OLUFSEN-Landing-Page/)
